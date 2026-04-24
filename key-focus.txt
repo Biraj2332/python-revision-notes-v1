@@ -1,0 +1,5 @@
+Data structure:
+Built in:
+List, touple, set, dictionary, array
+user-defined:
+stack, queue, linked-list, tree, graph
