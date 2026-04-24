@@ -117,3 +117,13 @@ list_b = [4, 5, 6]
 concatenated_list = list_a + list_b
 print("Concatenated list:", concatenated_list)
 
+
+# Slicing: list[start:stop:step]
+my_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+sliced_list = my_list[2:8:2]  
+print("Sliced list:", sliced_list)
+
+# List comprehension: A concise way to create lists.
+squared_numbers = [x**2 for x in range(10)]
+print("Squared numbers:", squared_numbers)
+
